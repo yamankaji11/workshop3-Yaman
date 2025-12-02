@@ -1,0 +1,22 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Inception",
+      "genre": "Sci-Fi",
+      "year": 2010
+    },
+    {
+      "id": "3",
+      "title": "Dune",
+      "genre": "Sci-Fi",
+      "year": 2021
+    },
+    {
+      "id": "2",
+      "title": "pulp fiction",
+      "genre": "action",
+      "year": 2010
+    }
+  ]
+}
